@@ -9,7 +9,7 @@ Cleaned_Car.csv contains data after data cleaning
 CarPricePredictorLR.pkl contains machine learning model
 Car_price_predictor.ipynb notebook contains total analysis and code for model building
 # Required libraries
-numpy
-pandas
-sklearn
-matplotlib
+- numpy
+- pandas
+- sklearn
+- matlplotlib
